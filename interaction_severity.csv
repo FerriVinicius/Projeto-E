@@ -1,11 +1,115 @@
-Interaction_Type,Severity
+Interaction Type,Health Impact
+serum concentration,Minor
+risk or severity of bleeding,Major
+anticoagulant activities,Moderate
+risk or severity of adverse effects,Major
+metabolism,Minor
+therapeutic efficacy,Moderate
 QTc-prolonging activities,Major
-CYP450 metabolism inhibition,Moderate
-CNS depressant effects,Major
-Gastrointestinal bleeding risk,Major
-Hypotensive effects,Moderate
-Serotonin syndrome risk,Major
-Nephrotoxicity,Major
-Hyperkalemia risk,Moderate
-Hepatotoxicity,Major
-Electrolyte imbalance,Moderate
+cardiotoxic activities,Major
+serum concentration of active metabolites,Moderate
+excretion,Minor
+hyperkalemic activities,Moderate
+nephrotoxic activities,Major
+absorption,Minor
+risk or severity of renal failure,Major
+immunosuppressive activities,Moderate
+risk or severity of hyperkalemia,Major
+excretion rate of higher serum level,Moderate
+hepatotoxic activities,Major
+neuromuscular blocking activities,Moderate
+neurotoxic activities,Major
+bradycardic activities,Moderate
+atrioventricular blocking (AV block) activities,Major
+hypoglycemic activities,Moderate
+risk or severity of myelosuppression,Major
+hypercalcemic activities,Moderate
+arrhythmogenic activities,Major
+photosensitizing activities,Minor
+risk or severity of QTc prolongation,Major
+serotonergic activities,Moderate
+thrombogenic activities,Moderate
+antiplatelet activities,Moderate
+risk or severity of myopathy and rhabdomyolysis,Major
+myopathic rhabdomyolysis activities,Major
+"risk or severity of rhabdomyolysis, myoglobinuria, and elevated creatine kinase (CPK)",Major
+risk or severity of rhabdomyolysis,Major
+"risk or severity of myopathy, rhabdomyolysis, and myoglobinuria",Major
+risk or severity,Minor
+central nervous system depressant (CNS depressant) activities,Moderate
+neuroexcitatory activities,Moderate
+sedative activities,Minor
+diagnostic agent,Minor
+hyponatremic activities,Moderate
+antihypertensive activities,Minor
+hypotensive activities,Moderate
+orthostatic hypotensive activities,Moderate
+risk or severity of angioedema,Major
+"risk or severity of hypotension, nitritoid reactions, facial flushing, nausea, and vomiting",Major
+risk or severity of hypotension,Moderate
+"hypotensive, nephrotoxic, and hyperkalemic activities",Major
+risk of hypersensitivity reaction to,Major
+risk or severity of anemia and severe leukopenia,Major
+vasodilatory activities,Moderate
+risk or severity of ventricular arrhythmias,Major
+risk or severity of renal failure and hyperkalemia,Major
+adverse neuromuscular activities,Moderate
+bioavailability,Minor
+hypokalemic activities,Moderate
+fluid retaining activities,Moderate
+hypertensive activities,Moderate
+hypotensive and central nervous system depressant (CNS depressant) activities,Moderate
+central neurotoxic activities,Major
+anticholinergic activities,Moderate
+risk or severity of hypertension,Moderate
+risk or severity of convulsion,Major
+risk or severity of serotonin syndrome,Major
+stimulatory activities,Minor
+tachycardic activities,Moderate
+risk or severity of sedation and somnolence,Moderate
+bronchoconstrictory activities,Moderate
+risk or severity of congestive heart failure and hypotension,Major
+vasoconstricting activities,Moderate
+bronchodilatory activities,Minor
+analgesic activities,Minor
+constipating activities,Minor
+excretion rate,Minor
+respiratory depressant activities,Major
+"risk or severity of QTc prolongation, torsade de pointes, hypokalemia, hypomagnesemia, and cardiac arrest",Major
+antipsychotic activities,Moderate
+ulcerogenic activities,Moderate
+hypertensive and vasoconstricting activities,Moderate
+vasopressor activities,Moderate
+risk or severity of hypokalemia,Moderate
+risk or severity of ototoxicity and nephrotoxicity,Major
+diuretic activities,Moderate
+risk or severity of heart failure,Major
+protein binding,Minor
+risk or severity of edema formation,Moderate
+risk or severity of fluid retention,Moderate
+hyperglycemic activities,Moderate
+risk or severity of severe leukopenia,Major
+risk or severity of hyponatremia,Moderate
+risk or severity of myopathy,Major
+dermatologic adverse activities,Moderate
+absorption of reduced serum concentration and potentially,Minor
+myelosuppressive activities,Major
+risk or severity of hypotension and neuromuscular blockade,Major
+risk or severity of sinus node depression,Major
+risk or severity of generalized seizure and bradycardia,Major
+hypocalcemic activities,Moderate
+thrombocytopenic activities,Moderate
+neutropenic activities,Moderate
+risk or severity of bradycardia,Moderate
+ototoxic activities,Moderate
+risk or severity of QTc prolongation and torsade de pointes,Major
+teratogenic activities,Major
+risk or severity of renal failure and rhabdomyolysis,Major
+risk or severity of pulmonary toxicity,Major
+antineoplastic activities,Major
+hypotensive activities of at,Moderate
+central nervous system depressant (CNS depressant) and hypertensive activities,Moderate
+risk or severity of intraocular pressure,Moderate
+serum concentration of sulfate,Minor
+risk or severity of generalized seizure,Major
+risk or severity of sedation,Moderate
